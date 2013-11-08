@@ -1,5 +1,9 @@
 == README
 
+Nadine Eter
+
+Übung 4: Zahlen von 1 bis 100 durch 2 und 4 teilen und mit einem X angeben und IzzyBizzy
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
